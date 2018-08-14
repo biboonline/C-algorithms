@@ -5,3 +5,4 @@ course, we will introduce balanced binary search trees (BST) — a special kind 
 efciently store, manipulate and retrieve data. Balanced BSTs are thus used in databases for efcient storage
 and actually in virtually any non-trivial programs, typically via built-in data structures of the programming
 language at hand.
+
