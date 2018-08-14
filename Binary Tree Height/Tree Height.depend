@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1534258084 source:e:\engineering\engineering (bibo)\data structures\tree height\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
