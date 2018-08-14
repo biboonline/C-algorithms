@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1534191991 source:e:\engineering\engineering (bibo)\data structures\balanced brackets assignment\balanced brackets\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
