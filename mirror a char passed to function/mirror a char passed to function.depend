@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1564412695 source:c:\users\khale\desktop\j_w_i\mirror a char passed to function\main.c
+	<stdio.h>
+	<stdlib.h>
+

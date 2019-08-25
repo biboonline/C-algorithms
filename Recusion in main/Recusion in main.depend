@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1564566546 source:c:\users\khale\desktop\j_w_i\recusion in main\main.c
+	<stdio.h>
+	<stdlib.h>
+

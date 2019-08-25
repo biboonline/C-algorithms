@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1564417266 source:c:\users\khale\desktop\j_w_i\predict concealed\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
